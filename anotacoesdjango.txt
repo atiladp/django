@@ -1,0 +1,3 @@
+Criação de ambiente virtual
+# pyton -m venv venv
+# .venv\Scripts\activate
